@@ -1,0 +1,32 @@
+.tabhead{
+    font-family: cursive;
+    font-size: 30px;
+    color: blue;
+}
+
+.tabfoot{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+    font-size: x-large;
+}
+
+.tabtitle{
+    border: black 3px solid;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.tabcom{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    border: black 1px solid
+}
+.body{
+    background-color: grey;
+}
+.tablink{
+    text-align: left;
+}

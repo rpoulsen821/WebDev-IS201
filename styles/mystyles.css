@@ -1,0 +1,64 @@
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body{
+    background-color:rgb(89, 145, 113);
+}
+ul, ol{
+    font-weight: bold;
+    font-size: large;
+    
+    
+}
+li{
+    font-weight: normal;
+    font-style: italic;
+    font-size: large
+}
+
+.headbold{
+    font-size: 25px;
+}
+
+.fam{
+    font-weight: bold;
+    color:rgb(1, 61, 1)
+    
+}
+.thing{
+    margin-left: 0px;
+}
+.espnlink
+{
+    font-family: cursive;
+    color: blue;
+}
+.awesomevid{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+.subheading
+{
+    border: black 1px solid;
+    margin: auto
+}
+.border{
+    border: black 3px solid;
+}
+.byulink{
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+#fampic {
+    width: 50%;
+}
+#fampic2 {
+    width: 65%;
+}
